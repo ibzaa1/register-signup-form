@@ -9,7 +9,7 @@
 }
 
 body {
-    background: #CC7575;
+    background: #777;
 }
 
 .wrapper {
@@ -30,7 +30,7 @@ body {
     text-align: center;
     font-size: 40px;
     font-weight: bold;
-    color: #CC7575;
+    color: #777;
 }
 
 .wrapper .social_media {
@@ -57,8 +57,8 @@ body {
 }
 
 .wrapper .social_media .item:hover {
-    border-color: #CC7575;
-    color: #CC7575;
+    border-color: #777;
+    color: #777;
 }
 
 .wrapper .form .input_field {
@@ -77,7 +77,7 @@ body {
 .wrapper .form .btn {
     width: 70%;
     margin: 30px;
-    background: #CC7575;
+    background: #777;
     padding: 12px;
     text-align: center;
     border-radius: 25px; 
@@ -91,7 +91,7 @@ body {
     position: absolute;
     top: 10px;
     left: 10px;
-    color: #CC7575;
+    color: #777;
     font-size: 14px;
 
 }
